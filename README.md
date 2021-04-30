@@ -1,0 +1,3 @@
+# SQL-Samples
+
+This Repo Created for adding some sql sample of my answerd questions in stackoverflow and ...
