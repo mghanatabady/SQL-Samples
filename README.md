@@ -1,6 +1,6 @@
 # SQL-Samples
 
-This Repo Created for adding some sql sample of my answerd questions in stackoverflow and ...
+This Repo Created for adding some sql sample of my answerd questions in stackoverflow
 
 #1
 Write Query in Parent Child like tree format
